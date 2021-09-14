@@ -1,0 +1,22 @@
+body{
+    background-image: url("Fondo.jpg");
+}
+
+.title{
+    text-align: center;
+    color: rgb(51, 218, 248)
+}
+
+.sing-box{
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.sing-box form{
+    text-align: center;
+}
+.sing-box label{
+    color: white;
+    text-decoration: blueviolet;
+}

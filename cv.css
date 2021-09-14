@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+
+#datos u,#CAT u{
+    color: blue;
+}
+
+#edu u,#OT u{
+    color:green;
+}
+
+h3{
+    background-color: gray;
+    color: red;
+}
+h4{
+    background-color: gray;
+    color: purple;
+}
+
+div{
+    background-color: rgb(167, 164, 164);
+}
+.clarito{
+    background-color: rgb(167, 164, 164);
+}

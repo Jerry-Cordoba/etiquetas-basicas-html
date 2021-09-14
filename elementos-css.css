@@ -1,0 +1,28 @@
+/* body{
+    background-color: red;   
+} */
+.title{
+    text-align: center;
+    color:royalblue;
+    background-color: black;
+    border: 2px solid red; /*doted*/
+}
+
+.subtitle{
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#caja {
+     background-color: black;
+     width: 400px;
+     height: 200px;
+     margin: 0 auto;/*  */
+}
+
+#caja p{
+    color:white;
+    text-align: center;
+}
